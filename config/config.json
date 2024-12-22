@@ -1,0 +1,5 @@
+{
+    "database": "mongodb://localhost:27017/SITE_DB",
+    "serverPort": 5040,
+    "jwtSecret": "your_jwt_secret_key"
+}
